@@ -1,3 +1,5 @@
+1. Introduction
+
 1.1. Contexte du projet
 CYNA est une entreprise spécialisée dans la distribution de solutions de cybersécurité en mode SaaS, notamment SOC (Security Operations Center), EDR (Endpoint Detection & Response) et XDR (Extended Detection & Response). Afin d’élargir son marché à l’international et de moderniser son processus de vente, CYNA souhaite proposer une plateforme e-commerce permettant la souscription en ligne à ses services. Cette plateforme doit offrir une expérience utilisateur professionnelle, un parcours d’achat fluide (web et mobile) ainsi qu’un backoffice complet pour l’administration.
 
@@ -19,14 +21,7 @@ Le périmètre inclut :
 •	Un chatbot et un formulaire de contact.
 Hors périmètre : développement des solutions de cybersécurité elles-mêmes et intégration directe à un SOC opérationnel interne.
 
+Schéma de l'architecture :
 
 <img width="721" height="321" alt="image" src="https://github.com/user-attachments/assets/d8f8fdd9-4884-4ae0-b3ae-cd24f6f6028a" />
 
-        </mxCell>
-        <mxCell id="qBJlc5xjqYsHa8X3vwqO-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTPS/JWT" vertex="1">
-          <mxGeometry height="30" width="60" x="370" y="160" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
